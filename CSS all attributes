@@ -1,0 +1,28 @@
+table {
+  border: 0px /*line-width*/ solid /*line-style*/ white /*line-color*/;
+  border-collapse: separate, collapse, none, ;
+  border-width: 0px;
+  border-spacing: 20px;
+  border-color:blue; 
+  border-style:solid; 
+	margin-left/right: <length>, <percentage>, auto;
+  padding:10px
+}
+
+td {
+  padding: 0px;
+}
+
+body {
+  background-color:#99ccff;
+  background-image: url("2031-bg.png");
+	background-repeat: repeat, no-repeat;
+  background-position:left top, right, right top, right bottom, left, left bottom, center;
+}
+
+h1 {
+	font-size: 36pt;
+  color: #00ff00;
+	font-family: "segoe print",'verdana','sans-serif';
+  text-align: left;
+}
